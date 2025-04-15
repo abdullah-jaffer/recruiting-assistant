@@ -20,7 +20,7 @@ This Streamlit app processes a ZIP file of PDF resumes, ranks candidates based o
 
 ```bash
 git clone https://github.com/abdullah-jaffer/recruiting-assistant.git
-cd your-repo-name
+cd recruiting-assistant
 ```
 
 ### 2. Create and Activate Virtual Environment (Optional but Recommended)
