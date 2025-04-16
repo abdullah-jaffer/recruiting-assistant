@@ -4,6 +4,8 @@ This Streamlit app processes a ZIP file of PDF resumes, ranks candidates based o
 
 ---
 
+![Architecture Diagram](docs/architecture.png)
+
 ## 🚀 Features
 
 - Upload ZIP of PDF resumes  
